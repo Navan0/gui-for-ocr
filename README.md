@@ -1,1 +1,1 @@
-# gui-for-ocr
+# keras-app

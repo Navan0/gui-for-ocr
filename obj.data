@@ -1,0 +1,5 @@
+classes= 2 
+train  = /home/navaneeth/work/keras-flask-deploy-webapp/train.txt
+valid  = /home/navaneeth/work/keras-flask-deploy-webapp/test.txt
+names = /home/navaneeth/work/keras-flask-deploy-webapp/obj.names
+backup = /home/navaneeth/work/keras-flask-deploy-webapp
